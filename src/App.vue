@@ -13,4 +13,6 @@ export default {
 <template></template>
 
 <!-- css -->
-<style></style>
+<style>
+@use "styles/general.scss";
+</style>
