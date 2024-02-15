@@ -13,4 +13,5 @@ export default {
 <template></template>
 
 <!-- css -->
-<style></style>
+<!-- do lo scoped allo stile perchè voglio che sia esclusivo di questo compenente -->
+<style scoped></style>

@@ -13,4 +13,4 @@ export default {
 <template></template>
 
 <!-- css -->
-<style></style>
+<style scoped></style>
